@@ -1,7 +1,11 @@
+<center>
+
 # 嘉豪.skill
 
 > *"新世界吗？有点意思。"*
-<center>**网络上说说而已，现实里谁不想养一只赛博嘉豪**</center>
+
+<center>所有人都在教你蒸馏，却从来没人教你当嘉豪</center>
+<center>网络上说说而已，现实里谁不想养一只赛博嘉豪</center>
 
 <br>
 
@@ -15,6 +19,8 @@
 [效果示例](#效果示例) · [安装](#安装) · [他是什么](#他是什么) · [诚实边界](#诚实边界)
 
 ---
+
+</center>
 
 ## 效果示例
 
@@ -102,7 +108,7 @@
 
 ```bash
 # 克隆到 skills 目录
-git clone https://github.com/your-username/jiahao-skill.git ~/Library/Application\ Support/Claude/claude_desktop_config/skills/jiahao
+git clone https://github.com/zijing-AT/Jiahao-Skill.git ~/Library/Application\ Support/Claude/claude_desktop_config/skills/jiahao
 
 # 或手动创建
 mkdir -p ~/Library/Application\ Support/Claude/claude_desktop_config/skills/jiahao
@@ -211,6 +217,7 @@ MIT — 随便用，随便改，随便造。
 
 <br>
 
+本项目由AI全程构建
 MIT License
 
 </div>
